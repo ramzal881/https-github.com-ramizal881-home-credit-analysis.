@@ -1,0 +1,5 @@
+git init
+git add home_credit_scoring.ipynb
+git commit -m "Initial commit: Home Credit scoring analysis"
+git remote add origin https://github.com/ramizal881/home-credit-analysis.git
+git push -u origin main
